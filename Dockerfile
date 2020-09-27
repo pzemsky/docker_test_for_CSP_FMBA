@@ -21,7 +21,7 @@ RUN mkdir tmp
 
 #########################
 # biobambam (+libmaus)  #
-# version: 3            #
+# version: 0.0.191      #
 # released: 2015-04-20  #
 #########################
 
